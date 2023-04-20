@@ -1,0 +1,9 @@
+.categoryButtons{
+  padding-top: 10px;
+  padding-right: 5px;
+}
+
+.categoryDisplay{
+  display: flex;
+  flex-direction: row;
+}
